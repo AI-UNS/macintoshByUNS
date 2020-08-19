@@ -1,0 +1,1286 @@
+@media (max-width: 1199.5px) {
+    .green_button {
+        padding: 17px 50px;
+    }
+
+    .header__content {
+        margin-top: 60px;
+    }
+
+    .header__title {
+        color: var(--blackish);
+        font-size: 30px;
+    }
+
+    .header__text {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+
+    .info__statista p {
+        font-size: 16px;
+    }
+
+    .pro-skills {
+        height: 500px
+    }
+
+    .grey-line {
+        width: 400px;
+    }
+
+
+
+    .our-work p {
+
+        font-size: 19px;
+        line-height: 30px;
+    }
+
+    .padding-control {
+        padding: 70px 0;
+    }
+
+    .skills__right img {
+        object-fit: cover;
+    }
+
+    .process__video {
+        height: 400px;
+    }
+
+    /* ABOUT ME START */
+
+    .about__right {
+        margin-top: 75px;
+        background: var(--prof-skill-bg);
+    }
+
+    .right__about-text {
+        font-size: 14px;
+        line-height: 22px
+    }
+
+
+
+
+    /* ABOUT ME END */
+
+
+    /* PROJECT START  */
+
+    .album__slider{
+        background: var(--green);
+        height: 670px;
+    }
+
+    .my_carousel {
+        width: 100%;
+        height: 570px;
+    }
+
+    .project__left {
+        padding: 0 50px 0 60px;
+    }
+
+    .project__left h2 {
+        margin-top: 50px;
+        font-size: 35px;
+        line-height: 84px;
+    }
+
+    .project__left p {
+        font-size: 14px;
+        line-height: 22px;
+        color: var(--placeholder-grey);
+    }
+
+    .project__info {
+        margin-top: 45px;
+    }
+
+    .font-control {
+        font-size: 15px;
+    }
+
+
+    /* PROJECT START  */
+
+
+}
+
+/* ///////////////////////////////////////////////////// */
+
+@media (max-width: 991.5px) {
+
+    .green_button {
+        padding: 15px 45px;
+    }
+
+    .header__content {
+        margin-top: 35px;
+
+    }
+
+    .header__title {
+        font-size: 22px;
+        line-height: 40px;
+        margin-bottom: 30px;
+    }
+
+    .header__text {
+        font-size: 12px;
+        margin-bottom: 30px;
+        line-height: 25px;
+    }
+
+    /* .nav__links li {
+        margin-left: 15px;
+    }
+
+    .nav__links a {
+        font-size: 10px;
+    } */
+
+
+    .nav-item {
+        margin-left: 10px;
+
+    }
+
+    .nav-link {
+        font-size: 10px;
+        line-height: 24px;
+    }
+
+
+
+
+    .about__title {
+        font-size: 33.5px;
+        line-height: 55px;
+        margin-bottom: 35px;
+    }
+
+    .grey-line {
+        width: 300px;
+    }
+
+    .our-work h2 {
+        font-size: 37px;
+    }
+
+    .our-work p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+
+    .process__video {
+        height: 300px;
+    }
+
+
+    .play-button i {
+        width: 100px;
+        height: 100px;
+    }
+
+    .button-position {
+        top: 30%;
+    }
+
+    .icon-field {
+        padding: 75px 0 75px 0;
+        margin-top: 70px;
+    }
+
+    .icon-field img {
+        height: 40px;
+    }
+
+    .info__statista h3 {
+        font-size: 16px;
+    }
+
+    .info__statista p {
+        font-size: 12px;
+    }
+
+    .info__statista {
+        margin-top: 55px;
+    }
+
+
+    .icon-field h3 {
+        font-size: 11px;
+        margin: 24px 0 15px 0;
+    }
+
+    .icon-field p {
+        font-size: 13px;
+    }
+
+
+    .slides,
+    .carousel,
+    .carousel-position {
+        height: 450px;
+    }
+
+    .brands {
+        margin: 50px 0 50px 0;
+    }
+
+    .carousel-position p {
+        font-size: 17px;
+    }
+
+    .registr__content h2 {
+        font-size: 25px;
+        line-height: 50px;
+    }
+
+    .registr__content p {
+        font-size: 14px;
+    }
+
+
+    .registr__name::placeholder,
+    .registr__email::placeholder,
+    .registr__comment::placeholder,
+    .registr__title::placeholder {
+        color: var(--placeholder-grey);
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .registr__name,
+    .registr__email,
+    .registr__title {
+        padding-left: 18x;
+        height: 45px;
+    }
+
+
+    .registr__comment {
+        margin: 15px 0;
+        height: 150px;
+        padding-top: 18px;
+    }
+
+    .registr__submit {
+        padding: 20px 25px;
+        margin-top: 13px;
+        margin-bottom: 70px;
+    }
+
+
+    .footer__info h2 {
+        font-size: 13px;
+        margin-bottom: 12px;
+    }
+
+    .footer__info p {
+        font-size: 10px;
+        margin-top: 5px;
+    }
+
+
+    .footer__contacts a {
+        font-size: 10px;
+    }
+
+    .footer__links a {
+        font-size: 10px;
+    }
+
+    .padding-control {
+        padding: 55px 0;
+    }
+
+    /* ABOUT ME START */
+    .a_header__content {
+        padding: 85px 0;
+    }
+
+    .a_header__title {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .a_header__text {
+        font-size: 17.5px;
+        line-height: 28px;
+        font-family: 'NunitoSans', sans-serif;
+    }
+
+    /* ABOUT ME END */
+
+    /* CONTACTS START */
+
+    .contacts__content h2 {
+        font-size: 25px;
+        line-height: 50px;
+        font-weight: 500;
+        color: var(--blackish);
+        margin-bottom: 10px;
+    }
+
+    .contacts__content p {
+        font-size: 14px;
+        line-height: 18px;
+        font-weight: 400;
+        font-family: 'NunitoSans', sans-serif;
+        color: var(--placeholder-grey);
+    }
+
+    .contacts__info {
+        margin-top: 25px;
+    }
+
+    .contacts__content a {
+        font-size: 14px;
+        line-height: 15px;
+        font-weight: 400;
+        font-family: 'NunitoSans', sans-serif;
+        color: var(--placeholder-grey);
+    }
+
+    /* CONTACTS END */
+
+    
+    /* PROJECT START  */
+
+    .album__slider{
+        background: var(--green);
+        height: 570px;
+    }
+
+    .my_carousel {
+        width: 100%;
+        height: 500px;
+    }
+
+    .project__left {
+        padding: 0 50px 0 60px;
+    }
+
+    .project__left h2 {
+        margin-top: 45px;
+        font-size: 21px;
+        line-height: 40px;
+    }
+
+    .project__left p {
+        font-size: 11px;
+        line-height: 18px;
+        color: var(--placeholder-grey);
+        margin-bottom: 5px;
+    }
+
+    .project__info {
+        margin-top: 20px;
+    }
+
+    .font-control {
+        font-size: 11px;
+    }
+
+
+    /* PROJECT START  */
+
+}
+
+/* ///////////////////////////////////////////////////////// */
+
+@media (max-width: 767.5px) {
+    .green_button {
+        padding: 15px 30px;
+        font-size: 10px;
+    }
+
+    .logo {
+        height: 50px;
+    }
+
+    .header__content {
+        margin-top: 20px;
+
+    }
+
+    .header__title {
+        font-size: 15px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .header__text {
+        font-size: 10px;
+        margin-bottom: 30px;
+        line-height: 20px;
+    }
+
+    /* .nav__links li {
+        margin-left: 8px;
+    }
+
+    .nav__links a {
+        font-size: 8px;
+    } */
+
+
+    .nav-item {
+        margin-left: 6px;
+
+    }
+
+    .nav-link {
+        font-size: 8px;
+        line-height: 24px;
+    }
+
+    .about-us {
+        margin-top: 60px;
+    }
+
+    .signature {
+        height: 70px;
+    }
+
+    .about__title {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 25px;
+    }
+
+    .pro-skills {
+        height: 350px;
+    }
+
+    .grey-line {
+        width: 200px;
+    }
+
+    .skills__left {
+        margin-top: 50px;
+    }
+
+    .left__title {
+        font-size: 19px;
+    }
+
+    .skills__statista {
+        margin-top: 30px;
+    }
+
+    .skills__statista p {
+        font-size: 10px;
+    }
+
+    .info__statista img {
+        height: 35px;
+    }
+
+    .info__statista h3 {
+        font-size: 12px;
+    }
+
+    .info__statista p {
+        font-size: 8px;
+    }
+
+    .info__statista {
+        margin-top: 40px;
+    }
+
+    .load__more {
+        padding: 40px 0 30px 0;
+        font-size: 14px;
+    }
+
+    .our-work {
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
+
+    .our-work h2 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    .our-work p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .video-player {
+        height: 250px;
+    }
+
+
+    .process__video {
+        height: 200px;
+    }
+
+
+    .play-button {
+        width: 60px;
+        height: 60px;
+    }
+
+    .button-position {
+        top: 40%;
+    }
+
+
+    .icon-field {
+        padding: 50px 0;
+        margin-top: 70px;
+    }
+
+    .icon-field img {
+        height: 30px;
+    }
+
+
+    .icon-field h3 {
+        font-size: 8px;
+        margin: 24px 0 15px 0;
+    }
+
+    .icon-field p {
+        font-size: 10px;
+    }
+
+    .slides,
+    .carousel,
+    .carousel-position {
+        height: 350px;
+    }
+
+    .carousel-indicators li {
+        width: 7px;
+        height: 7px;
+    }
+
+    .carousel-position p {
+        font-size: 15px;
+    }
+
+    .brands {
+        margin: 40px 0;
+    }
+
+    .brands img {
+        height: 50px;
+    }
+
+    .registr__content h2 {
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .registr__content p {
+        font-size: 12px;
+    }
+
+
+    .registr__name::placeholder,
+    .registr__email::placeholder,
+    .registr__comment::placeholder,
+    .registr__title::placeholder {
+        color: var(--placeholder-grey);
+        font-size: 11px;
+        line-height: 20px;
+    }
+
+
+    .registr__name,
+    .registr__email {
+        height: 40px;
+        border: none;
+        margin: 15px 0;
+        padding-left: 10px;
+        font-size: 11px;
+        font-family: 'Nunito Sans', sans-serif;
+
+    }
+
+    .registr__title {
+        width: 100%;
+        margin: 15px 0;
+        border: none;
+        height: 40px;
+        padding-left: 10px;
+        font-size: 11px;
+        font-family: 'Nunito Sans', sans-serif;
+
+    }
+
+
+    .registr__comment {
+        margin: 15px 0;
+        height: 100px;
+        padding-top: 10px;
+        padding-left: 10px;
+        font-size: 11px;
+    }
+
+    .registr__submit {
+        padding: 10px 15px;
+        margin-top: 13px;
+        margin-bottom: 50px;
+        font-size: 12px;
+    }
+
+    .footer__info h2 {
+        font-size: 9px;
+        margin-bottom: 12px;
+    }
+
+    .footer__info p {
+        font-size: 8px;
+        margin-top: 5px;
+    }
+
+
+    .opacity {
+        opacity: 0;
+        position: absolute;
+        z-index: -5;
+    }
+
+
+    .footer__contacts a {
+        font-size: 7px;
+    }
+
+    .footer__links a {
+        font-size: 7px;
+    }
+
+    .padding-control {
+        padding: 40px 0;
+    }
+
+    /* ABOUT ME START */
+    .a_header__content {
+        padding: 85px 0;
+    }
+
+    .a_header__title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .a_header__text {
+        font-size: 12.5px;
+        line-height: 20px;
+        font-family: 'NunitoSans', sans-serif;
+    }
+
+    .about__right h2 {
+        color: var(--blackish);
+        font-size: 25px;
+        line-height: 40px;
+        margin-bottom: 0;
+    }
+
+    .right__about-text {
+        font-size: 12px;
+        line-height: 15px;
+        margin-top: 5px;
+    }
+
+    .about__right {
+        margin-top: 25px;
+        background: var(--prof-skill-bg);
+    }
+
+
+
+    .about__right img {
+        object-fit: contain;
+        margin-top: 20px;
+        height: 35px;
+    }
+
+    /* ABOUT ME END */
+
+
+
+    /* CONTACTS START */
+
+    .cont__main {
+        padding-top: 60px;
+    }
+
+    .contacts__content h2 {
+        font-size: 20px;
+        line-height: 40px;
+        font-weight: 500;
+        color: var(--blackish);
+        margin-bottom: 10px;
+    }
+
+    .contacts__content p {
+        font-size: 12px;
+        line-height: 17px;
+        font-weight: 400;
+        font-family: 'NunitoSans', sans-serif;
+        color: var(--placeholder-grey);
+    }
+
+    .contacts__info {
+        margin-top: 15px;
+    }
+
+    .contacts__content a {
+        font-size: 12px;
+        line-height: 15px;
+        font-weight: 400;
+        font-family: 'NunitoSans', sans-serif;
+        color: var(--placeholder-grey);
+    }
+
+    .contacts__content p {
+        font-size: 12px;
+        line-height: 15px;
+        font-weight: 400;
+        font-family: 'NunitoSans', sans-serif;
+        margin-bottom: 5px;
+    }
+
+    /* CONTACTS END */
+
+      
+    /* PROJECT START  */
+
+    .album__slider{
+        background: var(--green);
+        height: 570px;
+    }
+
+    .project__left {
+        padding: 0 40px 0 50px;
+    }
+
+    .my_carousel {
+        width: 100%;
+        height: 500px;
+    }
+
+    .project__left h2 {
+        margin-top: 45px;
+        font-size: 21px;
+        line-height: 40px;
+    }
+
+    .project__left p {
+        font-size: 11px;
+        line-height: 18px;
+        color: var(--placeholder-grey);
+        margin-bottom: 5px;
+    }
+
+    .project__info {
+        margin-top: 20px;
+    }
+
+    .font-control {
+        font-size: 11px;
+    }
+
+
+    /* PROJECT START  */
+
+
+
+}
+
+/* ///////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 575.5px) {
+
+    .green_button {
+        padding: 15px 30px;
+        font-size: 10px;
+    }
+
+    .logo {
+        height: 40px;
+    }
+
+    .header__content {
+        margin-top: 20px;
+
+    }
+
+    .header__title {
+        font-size: 15px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .header__text {
+        font-size: 10px;
+        margin-bottom: 30px;
+        line-height: 20px;
+    }
+
+    .nav__links li {
+        margin-left: 8px;
+    }
+
+    .nav__links a {
+        font-size: 8px;
+    }
+
+
+    .about-us {
+        margin-top: 50px;
+    }
+
+
+
+    .signature {
+        height: 50px;
+    }
+
+
+
+    .about__title {
+        font-size: 25px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .about__text {
+        color: var(--text_grey);
+        font-size: 11px;
+        line-height: 15px;
+        margin-bottom: 28px;
+        font-family: 'Nunito Sans', sans-serif;
+    }
+
+    .pro-skills {
+        height: 350px;
+    }
+
+    .grey-line {
+        width: 80px;
+    }
+
+    .skills__left {
+        margin-top: 50px;
+    }
+
+    .left__title {
+        font-size: 15px;
+    }
+
+    .skills__statista {
+        margin-top: 15px;
+    }
+
+    .skills__statista p {
+        font-size: 7px;
+    }
+
+    .info__statista {
+        margin-top: 10px;
+    }
+
+    .info__statista img {
+        height: 30px;
+    }
+
+    .info__statista h3 {
+        font-size: 10px;
+        margin-top: 5px;
+    }
+
+    .info__statista p {
+        text-align: center;
+        font-size: 8px;
+        line-height: 15px;
+        margin: 8px 0;
+    }
+
+    .load__more {
+        padding: 20px 0 15px 0;
+        font-size: 9px;
+    }
+
+    .our-work {
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+
+    .our-work h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .our-work p {
+        font-size: 12px;
+        line-height: 19px;
+        margin-top: 18px;
+        margin-bottom: 30px;
+    }
+
+
+    .video-player {
+        height: 150px;
+        margin-bottom: 10px;
+    }
+
+
+    .process__video {
+        height: 100px;
+    }
+
+
+    .play-button {
+        width: 60px;
+        height: 60px;
+    }
+
+    .button-position {
+        top: 35%;
+    }
+
+    */ .icon-field {
+        padding: 40px 0;
+        margin-top: 50px;
+    }
+
+    .icon-field img {
+        height: 30px;
+    }
+
+
+    .icon-field h3 {
+        font-size: 6px;
+        margin: 10px 0 5px 0;
+    }
+
+    .icon-field p {
+        font-size: 8px;
+    }
+
+    .distance-between {
+        margin-top: 25px;
+    }
+
+    .slides,
+    .carousel,
+    .carousel-position {
+        height: 280px;
+    }
+
+    .carousel-indicators li {
+        width: 5px;
+        height: 5px;
+    }
+
+    .carousel-position p {
+        font-size: 10px;
+    }
+
+    .brands {
+        margin: 40px 0;
+    }
+
+    .brands img {
+        height: 30px;
+    }
+
+    .registr__content h2 {
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .registr__content p {
+        font-size: 9px;
+    }
+
+
+    .registr__name::placeholder,
+    .registr__email::placeholder,
+    .registr__comment::placeholder,
+    .registr__title::placeholder {
+        color: var(--placeholder-grey);
+        font-size: 7px;
+        line-height: 15px;
+    }
+
+
+    .registr__name,
+    .registr__email {
+        height: 30px;
+        border: none;
+        margin: 10px 0;
+        padding-left: 5px;
+        font-size: 9px;
+        font-family: 'Nunito Sans', sans-serif;
+
+    }
+
+    .registr__title {
+        width: 100%;
+        margin: 10px 0;
+        border: none;
+        height: 30px;
+        padding-left: 5px;
+        font-size: 9px;
+        font-family: 'Nunito Sans', sans-serif;
+
+    }
+
+
+    .registr__comment {
+        margin: 10px 0;
+        height: 80px;
+        padding-top: 5px;
+        padding-left: 5px;
+        font-size: 9px;
+    }
+
+    .registr__submit {
+        padding: 10px 15px;
+        margin-top: 13px;
+        margin-bottom: 40px;
+    }
+
+    .footer__info h2 {
+        font-size: 8px;
+        margin-bottom: 10px;
+    }
+
+    .footer__info p {
+        font-size: 6px;
+        margin-top: 5px;
+    }
+
+    .footer__contacts a {
+        font-size: 6px;
+    }
+
+    .size-control:hover {
+        padding: 5px 10px;
+        border: none;
+        font-size: 5px;
+        background: #141414;
+
+    }
+
+
+    .size-control {
+        padding: 5px 10px;
+        border: none;
+        font-size: 5px;
+        background: #141414;
+    }
+
+
+    .opacity {
+        opacity: 1;
+        position: absolute;
+        z-index: 5;
+    }
+
+
+    .z-index-negative {
+        position: absolute;
+        z-index: -5;
+        opacity: 0;
+    }
+
+    .footer__links a {
+        font-size: 7px;
+    }
+
+    .padding-control {
+        padding: 20px 0;
+    }
+
+
+    /* HOME__PAGE CORRECTION START */
+
+    .home__nav {
+        padding: 10px 0;
+    }
+
+    .h_logo {
+        width: 40px;
+        /* height: 50px; */
+    }
+
+    .h_nav__link {
+        font-size: 9px;
+    }
+
+    .h_header__title {
+        color: var(--blackish);
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .h_header__text {
+        color: var(--white);
+        font-size: 11px;
+        line-height: 18px;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .h_header__content {
+        padding: 65px 0 50px 0;
+    }
+
+    /* HOME__PAGE CORRECTION END */
+
+
+
+    /* ABOUT ME START */
+    .a_header__content {
+        padding: 60px 0;
+    }
+
+    .a_header__title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .a_header__text {
+        font-size: 9.5px;
+        line-height: 15px;
+        font-family: 'NunitoSans', sans-serif;
+    }
+
+    .about__right h2 {
+        color: var(--blackish);
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    .right__about-text {
+        font-size: 10px;
+        line-height: 12px;
+        margin-top: 5px;
+    }
+
+    .about__right {
+        margin-top: 40px;
+        background: var(--prof-skill-bg);
+    }
+
+    .about__registr {
+        margin-top: 30px;
+    }
+
+    .about__registr p {
+        line-height: 13px;
+    }
+
+    .about__submit {
+        font-size: 10px;
+    }
+
+
+    .about__right img {
+        object-fit: contain;
+        margin-top: 15px;
+        height: 30px;
+    }
+
+    /* ABOUT ME END */
+
+
+    .cont__main {
+        padding-top: 40px;
+    }
+
+    .contacts__content h2 {
+        font-size: 10px;
+        line-height: 40px;
+        font-weight: 500;
+        color: var(--blackish);
+        margin-bottom: 10px;
+    }
+
+
+    .contacts__content p {
+        font-size: 9px;
+        line-height: 12px;
+        font-weight: 400;
+        font-family: 'NunitoSans', sans-serif;
+        color: var(--placeholder-grey);
+    }
+
+    .contacts__info {
+        margin-top: 15px;
+    }
+
+
+    .contacts__content a {
+        font-size: 9px;
+        line-height: 5px;
+        font-weight: 400;
+        font-family: 'NunitoSans', sans-serif;
+        color: var(--placeholder-grey);
+    }
+
+    /* CONTACTS END */
+
+
+     
+    /* PROJECT START  */
+
+    .album__slider{
+        background: var(--green);
+        height: 340px;
+    }
+
+    .project__left {
+        padding: 0 10px 0 20px;
+    }
+
+    .my_carousel {
+        width: 100%;
+        height: 300px;
+    }
+
+    .project__left h2 {
+        margin-top: 20px;
+        font-size: 12px;
+        line-height: 40px;
+    }
+
+    .project__left p {
+        font-size: 8px;
+        line-height: 12px;
+        color: var(--placeholder-grey);
+        margin-bottom: 5px;
+    }
+
+    .project__info {
+        margin-top: 20px;
+    }
+
+    .font-control {
+        font-size: 8px;
+    }
+
+    
+    .dist-l{
+        margin-left: 5px;
+    }
+    .dist-r{
+        margin-right: 5px;
+    }
+
+    /* PROJECT START  */
+
+}
